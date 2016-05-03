@@ -1,0 +1,14 @@
+{
+    "name": "sfl-angular-session",
+    "version": "1.0.0",
+    "authors": [
+        "SFL <seventy.four.laboratories@gmail.com>"
+    ],
+    "description": "AngularJS session holder",
+    "main": "sfl-angular-session.js",
+    "dependencies": {
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/74Labs/sfl-angular-session",
+    "private": true
+}
